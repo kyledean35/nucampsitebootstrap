@@ -1,0 +1,79 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    }
+
+
+h1, h2, h3 {
+    font-family: "Lobster", cursive;
+}
+
+h2 {
+    color:white;
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Rubik', sans-serif;
+    background-color: rgb(10, 10, 152);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+header h2 {
+    color: #CEC8FF;
+}
+
+.site-footer{
+    background-image: linear-gradient(#CEC8FF, white);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    margin: 0;
+    background-image: linear-gradient(to right,rgb(10, 10, 152), #3046C5, #60106B);
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color:  rgb(144, 9, 144);
+    outline: solid rgba(113, 7, 113, 0.846) 2px;
+}
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.carousel {
+    border: solid rgba(10, 10, 152) 6px;
+}
+
+#sect {
+    background-color: rgb(144, 9, 144);
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    outline: solid rgb(10, 10, 152) 15px;
+    
+}
+
+#title {
+    color: rgba(255, 255, 255, 0.92);
+   
+}
+
+#card{
+    outline: solid rgb(10, 10, 152) 6px;
+}
+
+#res{
+    outline: solid rgba(10, 10, 152, 0.682) 3px;
+}
